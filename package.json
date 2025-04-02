@@ -9,7 +9,7 @@
   "dependencies": {
     "express": "^4.17.1"
   },
-  "dev dependencies": {
+  "devdependencies": {
     "mocha": "10.2.0",
     "supertest": "6.3.3"
 }
